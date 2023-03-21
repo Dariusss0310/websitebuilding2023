@@ -124,3 +124,6 @@
 
 .valid-feedback {
   color: #2acc80; }
+
+.delete-item {
+  background-color: red !important; }
